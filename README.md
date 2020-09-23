@@ -12,6 +12,8 @@ The included mu.txt and cov.txt files are obtained by MATLAB training my private
 
 My highest accuracy rate is 97.15%.
 
+Environment: C++: OpenCV4.1,Visual Studio 2015 MATLAB: MATLAB 2018b
+
 C++ code: Open NIQE.sln to run
 
 If you have any questions, or have any suggestions for improvement of my code, you can contact me at any time. 
