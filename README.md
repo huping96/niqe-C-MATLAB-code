@@ -1,7 +1,9 @@
 # niqe-C-MATLAB-code
 
 Paper name: Making a "Completely Blind" Image Quality Analyzer
+
 Author: Anish Mittal, Rajiv Soundararajan, and Alan C. Bovik
+
 Year: 2013
 
 It contains the C++ code and MATLAB code of the niqe algorithm. The MATLAB code contains the training code and the test code, and the C++ code only contains the test code. Therefore, when running the C++ test code, you need to import the mu.txt and cov.txt obtained by MATLAB.
@@ -13,4 +15,5 @@ My highest accuracy rate is 97.15%.
 C++ code: Open NIQE.sln to run
 
 If you have any questions, or have any suggestions for improvement of my code, you can contact me at any time. 
+
 My email: huping199609@163.com
