@@ -17,3 +17,7 @@ C++ code: Open NIQE.sln to run
 If you have any questions, or have any suggestions for improvement of my code, you can contact me at any time. 
 
 My email: huping199609@163.com
+
+If you want to learn more about this paper, you can read my CSDN blog, which explains the niqe algorithm in detail.
+
+https://blog.csdn.net/weixin_45682889/article/details/108739906
